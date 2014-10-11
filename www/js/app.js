@@ -48,15 +48,16 @@ angular.module('starter', ['ionic', 'starter.controllers', 'starter.services'])
       }
     })
 
-    .state('tab.friends', {
-      url: '/friends',
+    .state('tab.compose', {
+      url: '/compose',
       views: {
-        'tab-friends': {
-          templateUrl: 'templates/tab-friends.html',
-          controller: 'FriendsCtrl'
+        'tab-compose': {
+          templateUrl: 'templates/tab-compose.html',
+          controller: 'ComposeCtrl'
         }
       }
     })
+    /*
     .state('tab.friend-detail', {
       url: '/friend/:friendId',
       views: {
@@ -66,13 +67,34 @@ angular.module('starter', ['ionic', 'starter.controllers', 'starter.services'])
         }
       }
     })
+    */
 
-    .state('tab.account', {
-      url: '/account',
+    .state('tab.pictures', {
+      url: '/pictures',
       views: {
-        'tab-account': {
-          templateUrl: 'templates/tab-account.html',
-          controller: 'AccountCtrl'
+        'tab-pictures': {
+          templateUrl: 'templates/tab-pictures.html',
+          controller: 'PicturesCtrl'
+        }
+      }
+    })
+
+    .state('tab.videos', {
+      url: '/videos',
+      views: {
+        'tab-videos': {
+          templateUrl: 'templates/tab-videos.html',
+          controller: 'VideosCtrl'
+        }
+      }
+    })
+
+    .state('tab.reminders', {
+      url: '/reminders',
+      views: {
+        'tab-reminders': {
+          templateUrl: 'templates/tab-reminders.html',
+          controller: 'RemindersCtrl'
         }
       }
     });

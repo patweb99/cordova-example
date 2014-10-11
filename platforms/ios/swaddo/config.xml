@@ -28,12 +28,16 @@
     <feature name="Keyboard">
         <param name="ios-package" onload="true" value="IonicKeyboard" />
     </feature>
+    <feature name="Camera">
+        <param name="ios-package" value="CDVCamera" />
+    </feature>
+    <preference name="CameraUsesGeolocation" value="false" />
     <name>swaddo</name>
     <description>
-        An Ionic Framework and Cordova project.
+        Cordova Example.
     </description>
-    <author email="hi@ionicframework" href="http://ionicframework.com/">
-      Ionic Framework Team
+    <author email="patweb99@gmail.com">
+      Patrick Santora
     </author>
     <content src="index.html" />
     <access origin="*" />

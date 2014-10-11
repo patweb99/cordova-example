@@ -32,3 +32,107 @@ https://developer.apple.com/icloud/documentation/data-storage/
 2014-10-10 20:41:11.411 swaddo[81927:7284183] [CDVTimer][TotalPluginStartup] 0.226021ms
 2014-10-10 20:41:11.772 swaddo[81927:7284183] Resetting plugins due to page load.
 2014-10-10 20:41:12.014 swaddo[81927:7284183] Finished load of: file:///Users/patricksantora/Library/Developer/CoreSimulator/Devices/CCE9A623-8B58-431B-BCAC-D114DECFE99D/data/Containers/Bundle/Application/D7D1F493-32C3-4760-B3F2-B25F85035388/swaddo.app/www/index.html#/tab/dash
+2014-10-10 20:47:42.220 swaddo[82441:7307536] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/patricksantora/Library/Developer/CoreSimulator/Devices/CCE9A623-8B58-431B-BCAC-D114DECFE99D/data/Containers/Data/Application/BED39FB1-4F11-4392-9F29-CF1BDDCAEA00/Library/Cookies/Cookies.binarycookies
+2014-10-10 20:47:42.289 swaddo[82441:7307536] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-10 20:47:42.290 swaddo[82441:7307536] Multi-tasking -> Device: YES, App: YES
+2014-10-10 20:47:42.298 swaddo[82441:7307536] Unlimited access to network resources
+2014-10-10 20:47:42.518 swaddo[82441:7307536] [CDVTimer][keyboard] 0.117004ms
+2014-10-10 20:47:42.518 swaddo[82441:7307536] [CDVTimer][TotalPluginStartup] 0.337958ms
+2014-10-10 20:47:42.661 swaddo[82441:7307536] Resetting plugins due to page load.
+2014-10-10 20:47:42.891 swaddo[82441:7307536] Finished load of: file:///Users/patricksantora/Library/Developer/CoreSimulator/Devices/CCE9A623-8B58-431B-BCAC-D114DECFE99D/data/Containers/Bundle/Application/7E378CF2-D599-457D-B920-274EC6DD68EC/swaddo.app/www/index.html#/tab/dash
+2014-10-10 20:48:48.372 swaddo[82618:7312589] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/patricksantora/Library/Developer/CoreSimulator/Devices/CCE9A623-8B58-431B-BCAC-D114DECFE99D/data/Containers/Data/Application/E4F1C945-31FA-4E98-B499-D25F70D16AAF/Library/Cookies/Cookies.binarycookies
+2014-10-10 20:48:48.433 swaddo[82618:7312589] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-10 20:48:48.434 swaddo[82618:7312589] Multi-tasking -> Device: YES, App: YES
+2014-10-10 20:48:48.439 swaddo[82618:7312589] Unlimited access to network resources
+2014-10-10 20:48:48.526 swaddo[82618:7312589] [CDVTimer][keyboard] 0.054955ms
+2014-10-10 20:48:48.526 swaddo[82618:7312589] [CDVTimer][TotalPluginStartup] 0.227988ms
+2014-10-10 20:48:48.632 swaddo[82618:7312589] Resetting plugins due to page load.
+2014-10-10 20:48:48.872 swaddo[82618:7312589] Finished load of: file:///Users/patricksantora/Library/Developer/CoreSimulator/Devices/CCE9A623-8B58-431B-BCAC-D114DECFE99D/data/Containers/Bundle/Application/E149AC3C-7128-4CB3-8841-F8E0302F815D/swaddo.app/www/index.html#/tab/dash
+2014-10-10 20:49:12.215 swaddo[82780:7314613] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/patricksantora/Library/Developer/CoreSimulator/Devices/CCE9A623-8B58-431B-BCAC-D114DECFE99D/data/Containers/Data/Application/7B96E3FA-E153-4800-8473-A2CC9D5D7469/Library/Cookies/Cookies.binarycookies
+2014-10-10 20:49:12.269 swaddo[82780:7314613] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-10 20:49:12.269 swaddo[82780:7314613] Multi-tasking -> Device: YES, App: YES
+2014-10-10 20:49:12.275 swaddo[82780:7314613] Unlimited access to network resources
+2014-10-10 20:49:12.380 swaddo[82780:7314613] [CDVTimer][keyboard] 0.099003ms
+2014-10-10 20:49:12.380 swaddo[82780:7314613] [CDVTimer][TotalPluginStartup] 0.348032ms
+2014-10-10 20:49:12.522 swaddo[82780:7314613] Resetting plugins due to page load.
+2014-10-10 20:49:12.733 swaddo[82780:7314613] Finished load of: file:///Users/patricksantora/Library/Developer/CoreSimulator/Devices/CCE9A623-8B58-431B-BCAC-D114DECFE99D/data/Containers/Bundle/Application/BB1E7B3A-4DD5-4852-867A-4F476A6711D9/swaddo.app/www/index.html#/tab/dash
+2014-10-10 20:49:44.919 swaddo[82941:7317808] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/patricksantora/Library/Developer/CoreSimulator/Devices/CCE9A623-8B58-431B-BCAC-D114DECFE99D/data/Containers/Data/Application/9FAA347C-2EF5-4C69-AB5E-E3DE5A681EED/Library/Cookies/Cookies.binarycookies
+2014-10-10 20:49:44.990 swaddo[82941:7317808] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-10 20:49:44.991 swaddo[82941:7317808] Multi-tasking -> Device: YES, App: YES
+2014-10-10 20:49:44.999 swaddo[82941:7317808] Unlimited access to network resources
+2014-10-10 20:49:45.114 swaddo[82941:7317808] [CDVTimer][keyboard] 0.073016ms
+2014-10-10 20:49:45.115 swaddo[82941:7317808] [CDVTimer][TotalPluginStartup] 0.250041ms
+2014-10-10 20:49:45.213 swaddo[82941:7317808] Resetting plugins due to page load.
+2014-10-10 20:49:45.423 swaddo[82941:7317808] Finished load of: file:///Users/patricksantora/Library/Developer/CoreSimulator/Devices/CCE9A623-8B58-431B-BCAC-D114DECFE99D/data/Containers/Bundle/Application/2B32F25B-1062-4053-B708-B15DF3DDD772/swaddo.app/www/index.html#/tab/dash
+2014-10-10 20:51:30.123 swaddo[83110:7324127] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/patricksantora/Library/Developer/CoreSimulator/Devices/CCE9A623-8B58-431B-BCAC-D114DECFE99D/data/Containers/Data/Application/70B41392-19DA-4F83-8C6F-7005DEF2F32B/Library/Cookies/Cookies.binarycookies
+2014-10-10 20:51:30.175 swaddo[83110:7324127] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-10 20:51:30.176 swaddo[83110:7324127] Multi-tasking -> Device: YES, App: YES
+2014-10-10 20:51:30.183 swaddo[83110:7324127] Unlimited access to network resources
+2014-10-10 20:51:30.281 swaddo[83110:7324127] [CDVTimer][keyboard] 0.056982ms
+2014-10-10 20:51:30.281 swaddo[83110:7324127] [CDVTimer][TotalPluginStartup] 0.235975ms
+2014-10-10 20:51:30.363 swaddo[83110:7324127] Resetting plugins due to page load.
+2014-10-10 20:51:30.510 swaddo[83110:7324127] Finished load of: file:///Users/patricksantora/Library/Developer/CoreSimulator/Devices/CCE9A623-8B58-431B-BCAC-D114DECFE99D/data/Containers/Bundle/Application/9E0DD9EB-17C6-4714-833C-0CAEC98F11BA/swaddo.app/www/index.html
+2014-10-10 20:52:49.236 swaddo[83277:7328762] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/patricksantora/Library/Developer/CoreSimulator/Devices/CCE9A623-8B58-431B-BCAC-D114DECFE99D/data/Containers/Data/Application/1A42B9C4-7892-431F-AB16-13DA88BF7610/Library/Cookies/Cookies.binarycookies
+2014-10-10 20:52:49.295 swaddo[83277:7328762] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-10 20:52:49.295 swaddo[83277:7328762] Multi-tasking -> Device: YES, App: YES
+2014-10-10 20:52:49.301 swaddo[83277:7328762] Unlimited access to network resources
+2014-10-10 20:52:49.406 swaddo[83277:7328762] [CDVTimer][keyboard] 0.055015ms
+2014-10-10 20:52:49.406 swaddo[83277:7328762] [CDVTimer][TotalPluginStartup] 0.258029ms
+2014-10-10 20:52:49.512 swaddo[83277:7328762] Resetting plugins due to page load.
+2014-10-10 20:52:49.653 swaddo[83277:7328762] Finished load of: file:///Users/patricksantora/Library/Developer/CoreSimulator/Devices/CCE9A623-8B58-431B-BCAC-D114DECFE99D/data/Containers/Bundle/Application/2BB6DC62-13CC-46EB-BAE9-823A1AE3C5C6/swaddo.app/www/index.html
+2014-10-10 20:55:08.762 swaddo[83466:7333878] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/patricksantora/Library/Developer/CoreSimulator/Devices/CCE9A623-8B58-431B-BCAC-D114DECFE99D/data/Containers/Data/Application/E60228A0-DAE2-4C1F-BB8D-0AE6973A7081/Library/Cookies/Cookies.binarycookies
+2014-10-10 20:55:08.834 swaddo[83466:7333878] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-10 20:55:08.834 swaddo[83466:7333878] Multi-tasking -> Device: YES, App: YES
+2014-10-10 20:55:08.839 swaddo[83466:7333878] Unlimited access to network resources
+2014-10-10 20:55:08.941 swaddo[83466:7333878] [CDVTimer][keyboard] 0.057995ms
+2014-10-10 20:55:08.941 swaddo[83466:7333878] [CDVTimer][TotalPluginStartup] 0.226021ms
+2014-10-10 20:55:09.069 swaddo[83466:7333878] Resetting plugins due to page load.
+2014-10-10 20:55:09.218 swaddo[83466:7333878] Finished load of: file:///Users/patricksantora/Library/Developer/CoreSimulator/Devices/CCE9A623-8B58-431B-BCAC-D114DECFE99D/data/Containers/Bundle/Application/281C032D-6BB5-44D0-A8A2-32C52C3833EE/swaddo.app/www/index.html
+2014-10-10 20:58:21.083 swaddo[83649:7345055] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/patricksantora/Library/Developer/CoreSimulator/Devices/CCE9A623-8B58-431B-BCAC-D114DECFE99D/data/Containers/Data/Application/E607911A-3F4B-466E-9DDD-E2CDBC6A8935/Library/Cookies/Cookies.binarycookies
+2014-10-10 20:58:21.129 swaddo[83649:7345055] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-10 20:58:21.129 swaddo[83649:7345055] Multi-tasking -> Device: YES, App: YES
+2014-10-10 20:58:21.135 swaddo[83649:7345055] Unlimited access to network resources
+2014-10-10 20:58:21.244 swaddo[83649:7345055] [CDVTimer][keyboard] 0.064969ms
+2014-10-10 20:58:21.244 swaddo[83649:7345055] [CDVTimer][TotalPluginStartup] 0.283003ms
+2014-10-10 20:58:21.344 swaddo[83649:7345055] Resetting plugins due to page load.
+2014-10-10 20:58:21.495 swaddo[83649:7345055] Finished load of: file:///Users/patricksantora/Library/Developer/CoreSimulator/Devices/CCE9A623-8B58-431B-BCAC-D114DECFE99D/data/Containers/Bundle/Application/B2C396B3-D624-4FE3-A7EE-297E614F3645/swaddo.app/www/index.html
+2014-10-10 20:59:29.359 swaddo[83856:7349471] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/patricksantora/Library/Developer/CoreSimulator/Devices/CCE9A623-8B58-431B-BCAC-D114DECFE99D/data/Containers/Data/Application/FAFC5B65-5D83-4251-99B0-88AED2628940/Library/Cookies/Cookies.binarycookies
+2014-10-10 20:59:29.411 swaddo[83856:7349471] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-10 20:59:29.412 swaddo[83856:7349471] Multi-tasking -> Device: YES, App: YES
+2014-10-10 20:59:29.419 swaddo[83856:7349471] Unlimited access to network resources
+2014-10-10 20:59:29.535 swaddo[83856:7349471] [CDVTimer][keyboard] 0.055015ms
+2014-10-10 20:59:29.535 swaddo[83856:7349471] [CDVTimer][TotalPluginStartup] 0.217021ms
+2014-10-10 20:59:29.635 swaddo[83856:7349471] Resetting plugins due to page load.
+2014-10-10 20:59:29.804 swaddo[83856:7349471] Finished load of: file:///Users/patricksantora/Library/Developer/CoreSimulator/Devices/CCE9A623-8B58-431B-BCAC-D114DECFE99D/data/Containers/Bundle/Application/A9FDFE2B-1EA9-45E6-8E49-901762DCA8F3/swaddo.app/www/index.html
+2014-10-10 21:00:57.340 swaddo[84032:7354290] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/patricksantora/Library/Developer/CoreSimulator/Devices/CCE9A623-8B58-431B-BCAC-D114DECFE99D/data/Containers/Data/Application/A450CAA5-FE89-4E02-B5E0-FA62A90CFC75/Library/Cookies/Cookies.binarycookies
+2014-10-10 21:00:57.408 swaddo[84032:7354290] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-10 21:00:57.409 swaddo[84032:7354290] Multi-tasking -> Device: YES, App: YES
+2014-10-10 21:00:57.415 swaddo[84032:7354290] Unlimited access to network resources
+2014-10-10 21:00:57.508 swaddo[84032:7354290] [CDVTimer][keyboard] 0.060976ms
+2014-10-10 21:00:57.508 swaddo[84032:7354290] [CDVTimer][TotalPluginStartup] 0.235975ms
+2014-10-10 21:00:57.611 swaddo[84032:7354290] Resetting plugins due to page load.
+2014-10-10 21:00:57.765 swaddo[84032:7354290] Finished load of: file:///Users/patricksantora/Library/Developer/CoreSimulator/Devices/CCE9A623-8B58-431B-BCAC-D114DECFE99D/data/Containers/Bundle/Application/01EC92E6-6835-4334-B228-E6E8EF59089A/swaddo.app/www/index.html
+2014-10-10 21:01:26.798 swaddo[84195:7356425] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/patricksantora/Library/Developer/CoreSimulator/Devices/CCE9A623-8B58-431B-BCAC-D114DECFE99D/data/Containers/Data/Application/0966967D-4F62-4759-ABA8-AA38B2CB1784/Library/Cookies/Cookies.binarycookies
+2014-10-10 21:01:26.853 swaddo[84195:7356425] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-10 21:01:26.854 swaddo[84195:7356425] Multi-tasking -> Device: YES, App: YES
+2014-10-10 21:01:26.859 swaddo[84195:7356425] Unlimited access to network resources
+2014-10-10 21:01:26.947 swaddo[84195:7356425] [CDVTimer][keyboard] 0.056028ms
+2014-10-10 21:01:26.947 swaddo[84195:7356425] [CDVTimer][TotalPluginStartup] 0.230014ms
+2014-10-10 21:01:27.039 swaddo[84195:7356425] Resetting plugins due to page load.
+2014-10-10 21:01:27.191 swaddo[84195:7356425] Finished load of: file:///Users/patricksantora/Library/Developer/CoreSimulator/Devices/CCE9A623-8B58-431B-BCAC-D114DECFE99D/data/Containers/Bundle/Application/1C8796DA-75A4-4787-AB3D-474925CF5034/swaddo.app/www/index.html
+2014-10-10 21:02:55.836 swaddo[84365:7361562] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/patricksantora/Library/Developer/CoreSimulator/Devices/CCE9A623-8B58-431B-BCAC-D114DECFE99D/data/Containers/Data/Application/F8A3A9C5-2EB5-4A2B-9B7C-2EFAFEBE5C4B/Library/Cookies/Cookies.binarycookies
+2014-10-10 21:02:55.895 swaddo[84365:7361562] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-10 21:02:55.895 swaddo[84365:7361562] Multi-tasking -> Device: YES, App: YES
+2014-10-10 21:02:55.900 swaddo[84365:7361562] Unlimited access to network resources
+2014-10-10 21:02:55.996 swaddo[84365:7361562] [CDVTimer][keyboard] 0.062048ms
+2014-10-10 21:02:55.996 swaddo[84365:7361562] [CDVTimer][TotalPluginStartup] 0.234008ms
+2014-10-10 21:02:56.077 swaddo[84365:7361562] Resetting plugins due to page load.
+2014-10-10 21:02:56.224 swaddo[84365:7361562] Finished load of: file:///Users/patricksantora/Library/Developer/CoreSimulator/Devices/CCE9A623-8B58-431B-BCAC-D114DECFE99D/data/Containers/Bundle/Application/B4F18E4C-7A51-4543-9CE0-07435B74A5B4/swaddo.app/www/index.html
+2014-10-10 21:04:07.604 swaddo[84533:7365414] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/patricksantora/Library/Developer/CoreSimulator/Devices/CCE9A623-8B58-431B-BCAC-D114DECFE99D/data/Containers/Data/Application/79FB8028-CE8D-443D-B76D-961CF4C920F2/Library/Cookies/Cookies.binarycookies
+2014-10-10 21:04:07.657 swaddo[84533:7365414] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-10 21:04:07.658 swaddo[84533:7365414] Multi-tasking -> Device: YES, App: YES
+2014-10-10 21:04:07.662 swaddo[84533:7365414] Unlimited access to network resources
+2014-10-10 21:04:07.767 swaddo[84533:7365414] [CDVTimer][keyboard] 0.065982ms
+2014-10-10 21:04:07.767 swaddo[84533:7365414] [CDVTimer][TotalPluginStartup] 0.261009ms
+2014-10-10 21:04:07.870 swaddo[84533:7365414] Resetting plugins due to page load.
+2014-10-10 21:04:08.012 swaddo[84533:7365414] Finished load of: file:///Users/patricksantora/Library/Developer/CoreSimulator/Devices/CCE9A623-8B58-431B-BCAC-D114DECFE99D/data/Containers/Bundle/Application/1D5C8D68-3A55-4304-B506-199F14845424/swaddo.app/www/index.html

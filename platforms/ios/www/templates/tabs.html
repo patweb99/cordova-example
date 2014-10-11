@@ -3,25 +3,26 @@
   Each tab's child <ion-nav-view> directive will have its own 
   navigation history that also transitions its views in and out.
 -->
-<ion-tabs class="tabs-icon-top">
+<ion-tabs class="tabs-icon-top tabs-assertive">
 
-
-  <!-- Dashboard Tab -->
-  <ion-tab title="Dashboard" icon="icon ion-home" href="#/tab/dash">
-    <ion-nav-view name="tab-dash"></ion-nav-view>
+  <!-- Compose Tab -->
+  <ion-tab title="Compose" icon="icon ion-compose" href="#/tab/compose">
+    <ion-nav-view name="tab-compose"></ion-nav-view>
   </ion-tab>
 
-
-  <!-- Friends Tab -->
-  <ion-tab title="Friends" icon="icon ion-heart" href="#/tab/friends">
-    <ion-nav-view name="tab-friends"></ion-nav-view>
+  <!-- Pictures Tab -->
+  <ion-tab title="Pictures" icon="icon ion-image" href="#/tab/pictures">
+    <ion-nav-view name="tab-pictures"></ion-nav-view>
   </ion-tab>
 
-
-  <!-- Account Tab -->
-  <ion-tab title="Account" icon="icon ion-gear-b" href="#/tab/account">
-    <ion-nav-view name="tab-account"></ion-nav-view>
+  <!-- Videos Tab -->
+  <ion-tab title="Videos" icon="icon ion-ios7-videocam" href="#/tab/videos">
+    <ion-nav-view name="tab-videos"></ion-nav-view>
   </ion-tab>
 
+  <!-- Reminders Tab -->
+  <ion-tab title="Reminders" icon="icon ion-ios7-bell" href="#/tab/reminders">
+    <ion-nav-view name="tab-reminders"></ion-nav-view>
+  </ion-tab>
 
 </ion-tabs>
